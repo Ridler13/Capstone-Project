@@ -1,6 +1,7 @@
 # Capstone-Project
 Code Academy Project
-Changed some design choices:
+
+I changed some design choices:
 Overall design works on all browsersas well as all mobiles platforms as tested in Google Chrome.
 Added Google analytics script. 
 Added a Favicon. In hindsight I should have chosen the school logo instead of a star.
